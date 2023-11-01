@@ -1,9 +1,7 @@
 ### Hello there!
-I'm PANCHO7532, probably you'll know me from... well, don't yet.
+I'm PANCHO7532, probably you'll know me from my main account, this is an secondary one that I own.
 
-This account will be used exclusively for interact with other GitHub projects and mirror my repositories as my main projects are now on [GitLab](https://gitlab.com/PANCHO7532) and [Gitea](https://gitea.com/PANCHO7532).
-
-P7COMunications organizations are there as well, you can check them out using the following links: [GitLab](https://gitlab.com/P7COMunications) - [Gitea](https://gitea.com/P7COMunications), current organization on GitHub will be abandoned indefinitely.
+This account is used to exclusively interact with other GitHub projects where I contributed code or issues and mirror my repositories as my main projects are now on the following accounts at [GitHub](https://github.com/PANCHO7532) or [GitLab](https://gitlab.com/PANCHO7532).
 <!--- 👋 Hi, I’m @PANCHO7532B
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
